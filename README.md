@@ -4,7 +4,7 @@ This project was specially designed for the git course made by Curiosity.
 
 The project is forked by a custom account created for the course, in order to make it easier to review the contribution of the participants in each sesion.
 
-To visualize the crew online [click here](https://htmlpreview.github.io/?https://github.com/curiosity-starcraft/starcraft-crew/blob/master/index.html) using a network connection without restrictions and give it a time to load!
+To visualize the crew online [click here](https://htmlpreview.github.io/?https://github.com/ksmarin/starcraft-crew/blob/master/index.html) using a network connection without restrictions and give it a time to load!
 
 ## Getting Started
 
